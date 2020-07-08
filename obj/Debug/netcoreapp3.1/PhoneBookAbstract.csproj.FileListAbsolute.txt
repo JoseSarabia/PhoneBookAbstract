@@ -1,0 +1,12 @@
+/Users/louyalsadi/Desktop/ASP.NET/PhoneBookAbstractApp/PhoneBookAbstract/obj/Debug/netcoreapp3.1/PhoneBookAbstract.csprojAssemblyReference.cache
+/Users/louyalsadi/Desktop/ASP.NET/PhoneBookAbstractApp/PhoneBookAbstract/obj/Debug/netcoreapp3.1/PhoneBookAbstract.AssemblyInfoInputs.cache
+/Users/louyalsadi/Desktop/ASP.NET/PhoneBookAbstractApp/PhoneBookAbstract/obj/Debug/netcoreapp3.1/PhoneBookAbstract.AssemblyInfo.cs
+/Users/louyalsadi/Desktop/ASP.NET/PhoneBookAbstractApp/PhoneBookAbstract/obj/Debug/netcoreapp3.1/PhoneBookAbstract.csproj.CoreCompileInputs.cache
+/Users/louyalsadi/Desktop/ASP.NET/PhoneBookAbstractApp/PhoneBookAbstract/bin/Debug/netcoreapp3.1/PhoneBookAbstract.deps.json
+/Users/louyalsadi/Desktop/ASP.NET/PhoneBookAbstractApp/PhoneBookAbstract/bin/Debug/netcoreapp3.1/PhoneBookAbstract.runtimeconfig.json
+/Users/louyalsadi/Desktop/ASP.NET/PhoneBookAbstractApp/PhoneBookAbstract/bin/Debug/netcoreapp3.1/PhoneBookAbstract.runtimeconfig.dev.json
+/Users/louyalsadi/Desktop/ASP.NET/PhoneBookAbstractApp/PhoneBookAbstract/bin/Debug/netcoreapp3.1/PhoneBookAbstract.dll
+/Users/louyalsadi/Desktop/ASP.NET/PhoneBookAbstractApp/PhoneBookAbstract/bin/Debug/netcoreapp3.1/PhoneBookAbstract.pdb
+/Users/louyalsadi/Desktop/ASP.NET/PhoneBookAbstractApp/PhoneBookAbstract/obj/Debug/netcoreapp3.1/PhoneBookAbstract.dll
+/Users/louyalsadi/Desktop/ASP.NET/PhoneBookAbstractApp/PhoneBookAbstract/obj/Debug/netcoreapp3.1/PhoneBookAbstract.pdb
+/Users/louyalsadi/Desktop/ASP.NET/PhoneBookAbstractApp/PhoneBookAbstract/obj/Debug/netcoreapp3.1/PhoneBookAbstract.genruntimeconfig.cache
